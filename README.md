@@ -8,4 +8,4 @@ Assignment2 includes numpy array and matrix operations, data analysis on BRFSS d
 
 Assignment3 includes pandas dataframe, using Regression techniques like linear, multiple, lasso regression and bootstaping techniques on a dataset in hdf5 format.
 
-Assignment4 includes questions related to Confusion matrix, ROC curve, Decision tree classifier.
+Assignment4 includes questions related to Performance Metrics(Accuracy,Kappa,Precision,Recall), Confusion matrix, ROC curve, Decision tree classifier.
